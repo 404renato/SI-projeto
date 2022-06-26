@@ -1,0 +1,9 @@
+[submodule "WEB_SI"]
+	path = WEB_SI
+	url = https://github.com/lucasgrass/WEB_SI.git
+[submodule "mobile-si"]
+	path = mobile-si
+	url = https://github.com/vitorcont/mobile-si.git
+[submodule "backend-si"]
+	path = backend-si
+	url = https://github.com/vitorcont/backend-si.git
